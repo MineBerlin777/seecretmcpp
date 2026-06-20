@@ -16,4 +16,6 @@ if (version) {
     } else {
         statusElement.innerText = "Invalid";
     }
+} else {
+    statusElement.innerText = "Invalid";
 }
